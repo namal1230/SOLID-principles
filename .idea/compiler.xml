@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SingleResponsibility" />
         <module name="LiskovSubstitution" />
+        <module name="InterfaceSegregation" />
         <module name="OpenClosed" />
       </profile>
     </annotationProcessing>

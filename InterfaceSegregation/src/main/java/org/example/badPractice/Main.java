@@ -6,6 +6,6 @@ public class Main {
         UserInterface employee = new Employee();
 
         user.saveUser();
-        employee.saveUser();
+        employee.customersBankDetails();
     }
 }
