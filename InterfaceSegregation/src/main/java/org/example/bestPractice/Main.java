@@ -1,4 +1,5 @@
 package org.example.bestPractice;
+
 // Clients should not be forced to depend on methods they do not use.
 
 

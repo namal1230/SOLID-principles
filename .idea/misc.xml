@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/OpenClosed/pom.xml" />
         <option value="$PROJECT_DIR$/LiskovSubstitution/pom.xml" />
         <option value="$PROJECT_DIR$/InterfaceSegregation/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInversion/pom.xml" />
       </list>
     </option>
   </component>
