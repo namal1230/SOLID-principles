@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SingleResponsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/OpenClosed/pom.xml" />
       </list>
     </option>
   </component>
